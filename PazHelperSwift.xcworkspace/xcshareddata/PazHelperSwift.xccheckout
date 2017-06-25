@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5650255A-D35E-463F-9435-E557C675B945</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PazHelperSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>176D30EA1C3E5376FEE1AA5670F147FFD4E55274</key>
+		<string>https://bitbucket.org/pazlabs/pazhelperswift.git</string>
+		<key>E6F16A1FEABD3496107516C424B7C5D8DAD24555</key>
+		<string>https://github.com/varshylmobile/LocationManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PazHelperSwift.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>176D30EA1C3E5376FEE1AA5670F147FFD4E55274</key>
+		<string>..</string>
+		<key>E6F16A1FEABD3496107516C424B7C5D8DAD24555</key>
+		<string>../LocationManager</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/pazlabs/pazhelperswift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>176D30EA1C3E5376FEE1AA5670F147FFD4E55274</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6F16A1FEABD3496107516C424B7C5D8DAD24555</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LocationManager</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>176D30EA1C3E5376FEE1AA5670F147FFD4E55274</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PazHelperSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "176D30EA1C3E5376FEE1AA5670F147FFD4E55274",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "176D30EA1C3E5376FEE1AA5670F147FFD4E55274" : 0,
+    "E6F16A1FEABD3496107516C424B7C5D8DAD24555" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5650255A-D35E-463F-9435-E557C675B945",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "176D30EA1C3E5376FEE1AA5670F147FFD4E55274" : "PazHelperSwift\/",
+    "E6F16A1FEABD3496107516C424B7C5D8DAD24555" : "PazHelperSwift\/LocationManager"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PazHelperSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PazHelperSwift.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/pazlabs\/pazhelperswift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "176D30EA1C3E5376FEE1AA5670F147FFD4E55274"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/varshylmobile\/LocationManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E6F16A1FEABD3496107516C424B7C5D8DAD24555"
+    }
+  ]
+}
