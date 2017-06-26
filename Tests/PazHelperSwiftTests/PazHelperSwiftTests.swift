@@ -49,7 +49,7 @@ class PazHelperSwiftTests: XCTestCase {
                     
                 }
             }
-            waitForExpectations(timeout: 5) { (error) in
+            waitForExpectations(timeout: 15) { (error) in
                 if let _ = error {
                     XCTFail("Timeout")
                 }
